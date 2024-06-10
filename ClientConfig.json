@@ -1,0 +1,8 @@
+{
+  "tcpPort": 1025,
+  "rmiPort": 1026,
+  "serverIP": "127.0.0.1",
+  "dim": 2048,
+  "multicastPort": 4321,
+  "multicastIP": "230.0.0.0"
+}

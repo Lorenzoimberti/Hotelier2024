@@ -1,0 +1,13 @@
+{
+  "hotelsJsonPath": "Hotels.json",
+  "registeredUsersJsonFileName": "RegisteredUsers.json",
+  "reviewsJsonFileName": "Reviews.json",
+  "tcpPort": 1025,
+  "dim": 1024,
+  "threadpoolSize": 2,
+  "multicastPort": 4321,
+  "multicastIP": "230.0.0.0",
+  "rankingUpdaterDefaultWaitTime": 30000,
+  "dbUpdaterWaitTime": 5000,
+  "rmiPort": 1026
+}
